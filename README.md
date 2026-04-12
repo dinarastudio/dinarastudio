@@ -1,7 +1,7 @@
 
 ## Hi, I'm Dinara 👋
 
-**Senior SDET | Playwright • TypeScript • Java | AI-Augmented Testing | Los Angeles, CA**
+**Senior SDET | Playwright • Selenium • TypeScript • Java | AI-Augmented Testing | Los Angeles, CA**
 
 ---
 
