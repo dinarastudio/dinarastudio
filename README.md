@@ -1,5 +1,5 @@
 
-## Hi, I'm Dinara 👋
+## Hi, there 👋
 
 **Senior SDET | Playwright • Selenium • TypeScript • Java | AI-Augmented Testing | Los Angeles, CA**
 
