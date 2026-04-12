@@ -42,6 +42,6 @@ codebases better than I found them.
 ---
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinaraoton)
 
 📍 Los Angeles, CA | Open to remote & LA-based roles
