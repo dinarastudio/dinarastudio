@@ -1,6 +1,4 @@
 
-## Hi, there 👋
-
 **Senior SDET | Playwright • Selenium • TypeScript • Java | AI-Augmented Testing | Los Angeles, CA**
 
 ---
@@ -40,6 +38,16 @@ codebases better than I found them.
 - 🤖 AI-augmented testing with GitHub Copilot & Claude
 
 ---
+
+### Currently building
+
+🔧 REST Assured + Java API test automation framework
+🎭 Expanding Playwright + TypeScript framework with JSON schema validation and data-driven testing
+
+### Currently learning
+
+🐍 Python + PyTest for API test automation
+🤖 AI/ML testing concepts and model validation
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinaraoton)
