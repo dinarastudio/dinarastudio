@@ -44,6 +44,8 @@ codebases better than I found them.
 - 🔧 REST Assured + Java API test automation framework
 - 🎭 Expanding Playwright + TypeScript framework with JSON schema validation and data-driven testing
 
+- 🎭 Expanding Playwright + TypeScript framework with JSON schema validation
+
 ### Currently learning
 
 - 🐍 Python + PyTest for API test automation
